@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fioradvisory.github.io/sitemap.xml
+Sitemap: https://www.fioradvisory.com/sitemap.xml
